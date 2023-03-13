@@ -5,15 +5,15 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-     name='dokr',
+     name='dokrrr',
      version='0.1',
-     scripts=['dokr'] ,
-     author="Deepak Kumar",
-     author_email="deepak.kumar.iet@gmail.com",
+     scripts=['dokrrr'],
+     author="Niral Chaudhary",
+     author_email="niral.pysquad@gmail.com",
      description="A Docker and AWS utility package",
      long_description=long_description,
      long_description_content_type="text/markdown",
-     url="https://github.com/javatechy/dokr",
+     url="https://github.com/niruchaudhary/python_track",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
